@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csahu14" alt="csahu14" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently woking as **Full Stack Web Development** in **Sugar Cosmetics**
 
-- 💬 Ask me about **react, nodejs, express**
+- 💬 Ask me about **reactjs, nextjs, nodejs, expressjs, mongoDB**
 
 - 📫 How to reach me **sahuchidananda1999@gamil.com**
 
